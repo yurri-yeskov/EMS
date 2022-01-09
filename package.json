@@ -1,7 +1,7 @@
 {
   "name": "bootspot",
   "version": "1.0.0",
-  "description": "LMS built using MERN",
+  "description": "EMS built using MERN",
   "main": "server.js",
   "scripts": {
     "server": "node server.js",
